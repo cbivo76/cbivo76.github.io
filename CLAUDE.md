@@ -49,7 +49,6 @@ Changes pushed to the `main` branch are automatically deployed via GitHub Pages.
 
 ## Notable Details
 
-- Site contains mixed legacy content: params.json references "Mircea Trifan" (likely previous site owner), while current content is about Cristian Bivolaru's Timisoara guide service
 - RDF profile files suggest potential future semantic web integration
 - Mobile-optimized via scale.fix.js for iPhone gesture handling
 - All tracking configured for UA-58521389-1 Google Analytics property
