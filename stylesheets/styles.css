@@ -253,3 +253,41 @@ footer {
     color:#444;
   }
 }
+
+/* Custom overrides for contact info */
+header {
+  width: 420px;
+}
+
+header ul {
+  background: none;
+  border: none;
+  box-shadow: none;
+  height: auto;
+  width: auto;
+  padding: 0 0 0 20px;
+  margin: 0 0 20px;
+  list-style: disc;
+  list-style-position: outside;
+}
+
+header li {
+  width: auto;
+  float: none;
+  border: none;
+  height: auto;
+  line-height: 1.5;
+  white-space: nowrap;
+}
+
+footer {
+  width: 420px;
+}
+
+.wrapper {
+  width: 960px;
+}
+
+section {
+  width: 520px;
+}
